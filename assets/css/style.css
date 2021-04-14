@@ -71,13 +71,13 @@ textarea{
 }
 
 .past {
-  background-color: grey;
+  background-color: lightgrey;
 }
 
 .present {
-  background-color: red;
+  background-color: lightcoral;
 }
 
 .future {
-  background-color: green;
+  background-color: lightseagreen;
 }
